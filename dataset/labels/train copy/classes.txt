@@ -1,0 +1,12 @@
+search_bar
+title_loaded
+cart
+ads
+loading
+categories
+item
+item_price
+item_name
+next_btn
+img_review
+footer
